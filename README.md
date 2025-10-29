@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f6af3,100:7b5bd2&height=120&text=HR%20with%20Tech,%20Leo&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8c67d0,100:5d4be2&height=120&text=Leo's%20Repo.&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     
 ### 🛠️ Tech Stacks
