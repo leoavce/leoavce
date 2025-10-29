@@ -1,10 +1,38 @@
 <div align="center">
-  <div style="background:#1C274C; color:#ffffff; padding:26px 28px; border-radius:16px; display:inline-block; width:100%; max-width:900px; box-shadow:0 6px 18px rgba(0,0,0,0.08);">
-    <div style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto; font-weight:800; font-size:40px; letter-spacing:0.2px;">
-      Tech HR-er Leo
+  <div style="
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    max-width:900px;
+    margin:20px auto;
+    border-radius:14px;
+    overflow:hidden;
+    box-shadow:0 4px 14px rgba(0,0,0,0.08);
+    font-family:'Inter',system-ui,Segoe UI,Roboto,sans-serif;
+  ">
+    <!-- Left (Navy Area) -->
+    <div style="
+      background-color:#1C274C;
+      color:#ffffff;
+      padding:32px 40px;
+      flex:1 1 50%;
+      text-align:left;
+    ">
+      <div style="font-size:34px; font-weight:800; letter-spacing:0.4px;">Tech HR-er Leo</div>
+      <div style="font-size:15px; opacity:0.9; margin-top:4px;">Data-driven HR & People Analytics</div>
     </div>
-    <div style="font-family: Inter, ui-sans-serif, system-ui; font-weight:500; font-size:16px; opacity:0.95; margin-top:6px;">
-      Building smarter HR through technology — and automation.
+
+    <!-- Right (White Area) -->
+    <div style="
+      background-color:#ffffff;
+      color:#1C274C;
+      padding:28px 36px;
+      flex:1 1 50%;
+      text-align:right;
+    ">
+      <div style="font-size:15px; font-weight:500; opacity:0.85;">
+        Building smarter HR through technology — and automation.
+      </div>
     </div>
   </div>
 </div>
