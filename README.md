@@ -1,14 +1,6 @@
-<!-- HEADER -->
-<div align="center">
-
-## ✨ **Tech HR-er Leo** ✨
-
-**Data-driven HR & People Analytics**  
-_Building smarter HR through technology — and automation._
-
-</div>
-
----
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f6af3,100:7b5bd2&height=120&text=Tech%20HR-er%20Leo&animation=&fontColor=ffffff&fontSize=50" />
+    </div>
 
 ### 🛠️ Tech Stacks
 <hr style="border:0.5px solid #d8dee4; margin:4px 0 12px;">
