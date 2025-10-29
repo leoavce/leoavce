@@ -1,15 +1,12 @@
 <div align="center">
-
-<h1 style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 48px; color: #1C274C;">
-Tech HR-er Leo
-</h1>
-
-<h3 style="font-weight: 500; color: #3b4a77;">
-Building smarter HR through technology
-</h3>
-
-> _From systems to people — connecting HR with data, UX, and automation._
-
+  <div style="background:#1C274C; color:#ffffff; padding:26px 28px; border-radius:16px; display:inline-block; width:100%; max-width:900px; box-shadow:0 6px 18px rgba(0,0,0,0.08);">
+    <div style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto; font-weight:800; font-size:40px; letter-spacing:0.2px;">
+      Tech HR-er Leo
+    </div>
+    <div style="font-family: Inter, ui-sans-serif, system-ui; font-weight:500; font-size:16px; opacity:0.95; margin-top:6px;">
+      Building smarter HR through technology — and automation.
+    </div>
+  </div>
 </div>
 
 ---
@@ -34,9 +31,17 @@ Building smarter HR through technology
 ---
 
 ### 📁 Recent Projects
-**LMS System Development (Internal Learning Management Platform)**  
-**HR Operation Dashboard (Workforce Management & Analytics)**  
-**Recruitment Dashboard (Process & Candidate Data Visualization)**  
+- **LMS System Development (Internal Learning Management Platform)**  
+  <div style="border-top:1px solid #e5e7eb; margin:4px 0 8px;"></div>
+  Learning paths, IDP/CDP linkage, progress tracking, and admin analytics.
+
+- **HR Operation Dashboard (Workforce Management & Analytics)**  
+  <div style="border-top:1px solid #e5e7eb; margin:4px 0 8px;"></div>
+  Headcount, movements, training hours, and KPI/OKR rollups with export.
+
+- **Recruitment Dashboard (Process & Candidate Data Visualization)**  
+  <div style="border-top:1px solid #e5e7eb; margin:4px 0 8px;"></div>
+  Pipeline stages, conversion metrics, SLA tracking, and auto-generated reports.
 
 ---
 
