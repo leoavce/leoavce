@@ -1,4 +1,5 @@
-<table align="center" width="900" style="border:none;border-collapse:collapse;box-shadow:0 4px 12px rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;font-family:'Inter',system-ui,Segoe UI,Roboto,sans-serif;">
+<!-- HEADER -->
+<table align="center" width="900" style="border:none;border-collapse:collapse;box-shadow:0 4px 12px rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;font-family:'Inter',system-ui,Segoe UI,Roboto,sans-serif;margin-top:20px;">
   <tr>
     <!-- Left: Navy Section -->
     <td width="50%" align="left" valign="middle" style="background-color:#1C274C;color:#ffffff;padding:32px 40px;">
@@ -37,6 +38,7 @@
 ---
 
 ### 📁 Recent Projects
+
 - **LMS System Development (Internal Learning Management Platform)**  
   <div style="border-top:1px solid #e5e7eb; margin:4px 0 8px;"></div>
   Learning paths, IDP/CDP linkage, progress tracking, and admin analytics.
